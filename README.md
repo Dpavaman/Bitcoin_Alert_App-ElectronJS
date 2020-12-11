@@ -11,19 +11,19 @@
 Originally planned to display and set a target for BTC value of INR (Indian National Rupees) but the API provides exact value for USD and EUR. Thus changed to USD 
 
 **App UI**
-[Application UI](assets/thumbnails/APP%20UI.png)
+![Application UI](assets/thumbnails/APP%20UI.png)
 
 **Click On Notify**
-[Click on Notify](assets/thumbnails/Click%20on%20Notify.png)
+![Click on Notify](assets/thumbnails/Click%20on%20Notify.png)
 
 **Enter Target Value**
-[Enter Target Value](assets/thumbnails/Target%20Value.png)
+![Enter Target Value](assets/thumbnails/Target%20Value.png)
 
 **You can See Target Value Updated on Main Window**
-[Target Value Updated](assets/thumbnails/value%20updated.png)
+![Target Value Updated](assets/thumbnails/value%20updated.png)
 
 **Alert Triggered once The Balue raises above target**
-[Alert](assets/thumbnails/Alert.png)
+![Alert](assets/thumbnails/Alert.png)
  
  
  
